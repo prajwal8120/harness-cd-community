@@ -49,7 +49,7 @@ You can also use the following commands to check status.
 kubectl get pods -n harness
 kubectl get services -n harness
 ```
-2) Open the link which is displayed and complete the registration form at `http://<ip-address>:7143/#/signup`. Now your Harness CD account along with the first (admin) user is created. If you have already completed this step, then login to Harness CD at `http://<ip-address>:7143/#/signin`.
+2) Open the link which is displayed and complete the registration form at `http://<ip-address>:7143/#/signup`. Now your Harness CD account along with the first (admin) user is created. If you have already completed this step, then login to Harness CD at `http://<ip-address>:7143/#/signin`. `Note: Provide Private ip here & while accesing use public ip (Demo)`
 3) Follow the Harness CD Community Edition [quickstart](https://developer.harness.io/docs/continuous-delivery/deploy-srv-diff-platforms/community-ed/harness-community-edition-quickstart/)
 
 ## Troubleshooting
